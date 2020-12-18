@@ -109,7 +109,8 @@ To get a local copy up and running , follow these simple example steps.
 
 <!-- Screenshots -->
 ## Screenshots
-
+<br />
+<p align="center">
 Home Page
 <br />
 ![](https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.gif)
