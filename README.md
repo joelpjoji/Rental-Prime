@@ -127,13 +127,13 @@ Home Page
 
 <br />
 <p align="center">
-######Categories Tab
+## Categories Tab
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/categories.png">
 
 <br />
 <p align="center">
-######Search Results
+###### Search Results
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/search.png">
 
