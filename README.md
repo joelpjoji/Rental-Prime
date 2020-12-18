@@ -45,9 +45,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Is A Group Project 
+This Is A Group Project <br />
 Team Members are :
-https://img.shields.io/github/contributors-anon/joelpjoji/Rental-Prime
+<img src=https://img.shields.io/github/contributors-anon/joelpjoji/Rental-Prime>
 This Website is Our 3rd Year Design Project <br />
 You could Make this project live with help of [Firebase](https://console.firebase.google.com) and Add a lot of features
 
