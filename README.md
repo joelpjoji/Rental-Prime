@@ -109,11 +109,10 @@ To get a local copy up and running , follow these simple example steps.
 
 <!-- Screenshots -->
 ## Screenshots
+<h3 align="center">Home Page</h3>
+<h3 align="center"></h3>
 <br />
-<p align="center">
-Home Page
-<br />
-<p align="center"> 
+<align="center"> 
   
 ![](https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.gif)
 
@@ -127,7 +126,7 @@ Home Page
 
 <br />
 <p align="center">
-### Categories Tab
+  <h3 align="center">Categories Tab</h3>
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/categories.png">
 
