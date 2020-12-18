@@ -75,8 +75,8 @@ Customers need to register with our site as they search and place their orders. 
 
 ### Built With
 * [Visual Studio Code](https://code.visualstudio.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Bootstrap 4 Framework](https://getbootstrap.com)
+* [JQuery Plugins](https://jquery.com)
 * [Xampp](https://www.apachefriends.org/index.html)
 *	[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/index.html)
 *	[Litepicker](https://wakirin.github.io/Litepicker/)
