@@ -45,8 +45,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Website is Our 3rd Year Design Project 
+This Is A Group Project 
+Team Members are :
+https://img.shields.io/github/contributors-anon/joelpjoji/Rental-Prime
+This Website is Our 3rd Year Design Project <br />
 You could Make this project live with help of [Firebase](https://console.firebase.google.com) and Add a lot of features
+
 
 The purpose of this project is to provide a platform for users and rental product(s) owners in an efficient manner.
 This Online Shopping Website / Online Renting System is a one stop portal for all kinds of machinery. It provides services for all categories of machinery and tools, 
