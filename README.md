@@ -126,18 +126,25 @@ Categories Tab
 
 Search Results
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/search.png">
+
 Product Page
-<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/products.png">
+<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/product.png">
+
 Product Description
-<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/proDis.png">
-Cart -- 
+<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/productDis.png">
+
+Cart 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/cart.png">
+
 Add Product Page 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/AddProduct.png">
+
 Register Account Page
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/register.png">
+
 Login Page
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/login.png">
+
 Profile Page
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/profile.png">
 
@@ -164,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Joel P Joji - [@your_twitter](https://twitter.com/joelpjoji) - joelpjoji1222@example.com
+Joel P Joji - [@joelpjoji](https://twitter.com/joelpjoji) - joelpjoji1222@example.com
 
 Project Link: [https://github.com/joelpjoji/Rental-prime](https://github.com/joelpjoji/Rental-prime)
 
