@@ -222,4 +222,4 @@ Joel P Joji - [@joelpjoji](https://twitter.com/joelpjoji) - joelpjoji1222@exampl
 
 Project Link: [https://github.com/joelpjoji/Rental-prime](https://github.com/joelpjoji/Rental-prime)
 
-If You think this Good , Follow me Or Fork this Repo or do both :) ( it wont hurt )
+If You think this Good , Follow me Or Star this Repo or do both :) ( it wont hurt )
