@@ -9,7 +9,7 @@
   <h3 align="center">Rental Prime</h3>
 
   <p align="center">
-    A platform for users and rental product(s) owners in an efficient manner. /n Online Shopping/Renting Website 
+    A platform for users and rental product(s) owners in an efficient manner. <br /> Online Shopping/Renting Website 
     <br />
     <a href="https://github.com/joelpjoji/Rental-Prime"><strong>Explore the docs »</strong></a>
     <br />
