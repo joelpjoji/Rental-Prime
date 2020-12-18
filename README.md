@@ -1,5 +1,4 @@
-<img src=https://img.shields.io/github/contributors-anon/joelpjoji/Rental-Prime>
-
+<img src=https://img.shields.io/github/contributors-anon/joelpjoji/Rental-Prime> <img src=https://img.shields.io/github/license/joelpjoji/Rental-Prime> <img src=https://img.shields.io/github/v/release/joelpjoji/Rental-Prime?include_prereleases> <img src=https://img.shields.io/github/last-commit/joelpjoji/Rental-Prime>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -50,14 +49,14 @@ This Is A Group Project <br />
 This Website is Our 3rd Year Design Project <br />
 Our Topic Was ONLINE RENTAL OF TOOLS AND MACHINERY <br />
 This is Just An Offline Build <br />
-You could Make this project live with help of [Firebase](https://console.firebase.google.com) and Add a lot of features Which we were hoping to add but Couldn't with the time frame given to us <br />
+You could Make this project live with help of [Firebase](https://console.firebase.google.com) and Add a lot of features <br />Which we were hoping to add but Couldn't with the time frame given to us <br />
 
 * Signin with Google 
 * Email Verification With OTP
 * online Forgot Password Features
 * Checkout Page
 <br />
-You can do all This with the help of Firebase 
+You can do all This with the help of Firebase , Feel Free to Help
 <br />
 
 
