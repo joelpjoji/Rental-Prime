@@ -43,18 +43,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The purpose of this project is to provide a platform for users and rental product(s) owners in an efficient manner.
+This Online Renting System is a one stop portal for all kinds of machinery. It provides services for all categories of machinery and tools, 
+Manually Operated
+Animal Operated
+Machine Operated
+It provides the facility to make online orders and get everything done before reaching the destination.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+##PROJECT DESCRIPTION
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+This web application would be implementable irrespective of location. Instead of providing products from only one rental shop, the application acts as an interface between different users (borrowers and lenders).
+Customers need to register with our site as they search and place their orders. We are responsible for communication between the customer and vendor and maintain the database. Our services include a completely sanitized transaction where the customers can also track when, where, and how the product has been sanitized. Our delivery system will be autonomous hence no human contact at the time of delivery.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 * [Visual Studio Code](https://code.visualstudio.com)
