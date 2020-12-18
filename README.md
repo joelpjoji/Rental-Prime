@@ -116,8 +116,8 @@ To get a local copy up and running , follow these simple example steps.
 ## Screenshots
 
 Home Page
-<video width="320" height="240" controls>
-  <source src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.webm" type="video/mp4">
+<video width="1366" height="768" controls>
+  <source src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.webm">
 </video>
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/home1.png">
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/home2.png">
