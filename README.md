@@ -114,9 +114,9 @@ To get a local copy up and running , follow these simple example steps.
 2. Start Apache & MySQL in XAMPP
 
 3. Go To localhost in your Browser
-  ```
-  http://localhost/phpmyadmin/
-  ```
+    ```
+    http://localhost/phpmyadmin/
+    ```
 4. Create a New Databse With the Name 
     ```
     rentalprime 
