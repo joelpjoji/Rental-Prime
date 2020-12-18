@@ -84,7 +84,7 @@ To get a local copy up and running , follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/joelpjoji/Rental-Prime.git
+   git clone https://github.com/joelpjoji/Rental-Prime
    or
    just download as Zip
    ```
@@ -111,6 +111,7 @@ To get a local copy up and running , follow these simple example steps.
 ## Screenshots
 
 Home Page
+<br />
 ![](https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.gif)
 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/home1.png">
