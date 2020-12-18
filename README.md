@@ -22,6 +22,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#project-description">Project Description</a></li>
+      </ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -50,7 +53,7 @@ Animal Operated
 Machine Operated
 It provides the facility to make online orders and get everything done before reaching the destination.
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 
 This web application would be implementable irrespective of location. Instead of providing products from only one rental shop, the application acts as an interface between different users (borrowers and lenders).
 Customers need to register with our site as they search and place their orders. We are responsible for communication between the customer and vendor and maintain the database. Our services include a completely sanitized transaction where the customers can also track when, where, and how the product has been sanitized. Our delivery system will be autonomous hence no human contact at the time of delivery.
