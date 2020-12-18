@@ -137,7 +137,7 @@ Cart
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/cart.png">
 
 Add Product Page 
-<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/AddProduct.png">
+<img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/Addproduct.png">
 
 Register Account Page
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/register.png">
