@@ -127,55 +127,55 @@ To get a local copy up and running , follow these simple example steps.
 <br />
 <p align="center">
   <h3 align="center">Categories Tab</h3>
-  
+  <br />
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/categories.png">
 
 <br />
 <p align="center">
-### Search Results
-  
+<h3 align="center">Search Results</h3>
+ <br /> 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/search.png">
 
 <br />
 <p align="center">
-### Product Page
-  
+<h3 align="center"> Product Page</h3>
+  <br />
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/product.png">
 
 <br />
 <p align="center">
-### Product Description
-  
+<h3 align="center">Product Description</h3> 
+  <br />
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/productDis.png">
 
 <br />
 <p align="center">
-### Cart 
-  
+<h3 align="center">Cart </h3> 
+  <br />
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/cart.png">
 
 <br />
 <p align="center">
-### Add Product Page 
-  
+<h3 align="center">Add Product Page </h3> 
+ <br /> 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/Addproduct.png">
 
 <br />
 <p align="center">
-### Register Account Page
-  
+<h3 align="center">Register Account Page</h3> 
+<br />  
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/register.png">
 
 <br />
 <p align="center">
-### Login Page
-  
+<h3 align="center"> Login Page</h3>
+  <br />
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/login.png">
 
 <br />
 <p align="center">
-### Profile Page
-  
+<h3 align="center">Profile Page</h3> 
+ <br /> 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/profile.png">
 
 <!-- CONTRIBUTING -->
