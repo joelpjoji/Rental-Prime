@@ -9,7 +9,7 @@
   <h3 align="center">Rental Prime</h3>
 
   <p align="center">
-    A platform for users and rental product(s) owners in an efficient manner.
+    A platform for users and rental product(s) owners in an efficient manner./n Online Shopping/Renting Website 
     <br />
     <a href="https://github.com/joelpjoji/Rental-Prime"><strong>Explore the docs »</strong></a>
     <br />
@@ -35,7 +35,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Screenshots">Usage</a></li>
+    <li><a href="#Preview">Preview</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -47,7 +47,7 @@
 ## About The Project
 
 The purpose of this project is to provide a platform for users and rental product(s) owners in an efficient manner.
-This Online Renting System is a one stop portal for all kinds of machinery. It provides services for all categories of machinery and tools, 
+This Online Shopping Website / Online Renting System is a one stop portal for all kinds of machinery. It provides services for all categories of machinery and tools, 
 Manually Operated
 Animal Operated
 Machine Operated
@@ -111,7 +111,7 @@ To get a local copy up and running , follow these simple example steps.
     ```
 
 <!-- Screenshots -->
-## Screenshots
+## Preview
 <h3 align="center">Home Page</h3>
 <h3 align="center"></h3>
 <br />
