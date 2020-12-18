@@ -127,55 +127,55 @@ Home Page
 
 <br />
 <p align="center">
-## Categories Tab
+### Categories Tab
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/categories.png">
 
 <br />
 <p align="center">
-###### Search Results
+### Search Results
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/search.png">
 
 <br />
 <p align="center">
-######Product Page
+### Product Page
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/product.png">
 
 <br />
 <p align="center">
-######Product Description
+### Product Description
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/productDis.png">
 
 <br />
 <p align="center">
-######Cart 
+### Cart 
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/cart.png">
 
 <br />
 <p align="center">
-######Add Product Page 
+### Add Product Page 
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/Addproduct.png">
 
 <br />
 <p align="center">
-######Register Account Page
+### Register Account Page
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/register.png">
 
 <br />
 <p align="center">
-######Login Page
+### Login Page
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/login.png">
 
 <br />
 <p align="center">
-######Profile Page
+### Profile Page
   
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/profile.png">
 
