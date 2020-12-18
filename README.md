@@ -78,6 +78,12 @@ Customers need to register with our site as they search and place their orders. 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Xampp](https://www.apachefriends.org/index.html)
+*	[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/index.html)
+*	[Litepicker](https://wakirin.github.io/Litepicker/)
+*	[jQuery Confirm](https://craftpip.github.io/jquery-confirm/)
+*	[jQuery Lazy](http://jquery.eisbehr.de/lazy/)
+*	[Zoomple](https://github.com/sularome/Zoomple)
+
 
 
 <!-- GETTING STARTED -->
