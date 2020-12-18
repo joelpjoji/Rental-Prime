@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/joelpjoji/Rental-Prime">
-    <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/images/short%20logo%20(for%20dark%20bg).png" alt="Logo" width="431" height="323">
+    <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/images/short%20logo%20(for%20dark%20bg).png" alt="Logo" width="215.5" height="161.5">
   </a>
 
   <h3 align="center">Rental Prime</h3>
