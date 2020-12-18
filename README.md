@@ -1,14 +1,9 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/joel-p-joji-5aa9b0172]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/joelpjoji/Rental-Prime">
-    <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/images/short%20logo%20(for%20dark%20bg).png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/images/short%20logo%20(for%20dark%20bg).png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Rental Prime</h3>
@@ -116,7 +111,7 @@ To get a local copy up and running , follow these simple example steps.
 ## Screenshots
 
 Home Page
-![](https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.webm)
+![](https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/recording.gif)
 
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/home1.png">
 <img src="https://github.com/joelpjoji/Rental-Prime/blob/main/Screenshots/home2.png">
